@@ -1,0 +1,18 @@
+# Ignore Unity specific files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Ignore crash reports
+CrashReports/
+MemoryCaptures/
+
+# Ignore IDE settings
+.vscode/
+*.csproj
+*.sln
+*.userprefs
